@@ -8,4 +8,5 @@
 \f0\fs24 \cf0 Git is a distributed version control system.\
 Git is free software distributed under the GPL.\
 Git has a mutable index called stage.\
-Create a new branch is quick.}
+Create a new branch is quick.\
+Lfjlagj;g;lgj}
